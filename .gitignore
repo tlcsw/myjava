@@ -1,0 +1,23 @@
+*.class
+#package file
+*.war
+*.ear
+
+*.orig
+
+tagret/
+
+.settings/
+.project
+.classpatch
+
+.idea/
+/idea/
+*.ipr
+*.iml
+*.iws
+
+*.log
+*.cache
+*.diff
+*.patch
